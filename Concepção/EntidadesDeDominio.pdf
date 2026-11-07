@@ -1,0 +1,272 @@
+%PDF-1.4
+%Basic UML diagram
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1162.5 772.5] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 5994 >>
+stream
+q
+0.75 0 0 -0.75 0 772.5 cm
+0.34 0.34 0.34 RG
+1.8 w
+400 183 m
+615 183 l
+S
+935 183 m
+1150 183 l
+S
+710 276 m
+710 335 l
+240 335 l
+240 425 l
+S
+775 276 m
+775 425 l
+S
+840 276 m
+840 358 l
+1310 358 l
+1310 425 l
+S
+240 611 m
+240 760 l
+S
+775 611 m
+775 760 l
+S
+1310 611 m
+1310 760 l
+S
+1 1 1 rg
+80 90 320 186 re f
+0.95 0.95 0.95 rg
+81 91 318 43 re f
+0.32 0.32 0.32 RG
+1.8 w
+80 90 320 186 re S
+1.6 w
+80 134 m 400 134 l S
+0.15 0.15 0.15 rg
+BT /F2 20 Tf 1 0 0 -1 165.80 119 Tm (GerenteProjeto) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 98.00 166 Tm (+id: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 98.00 191 Tm (+nome: String) Tj ET
+1 1 1 rg
+615 90 320 186 re f
+0.95 0.95 0.95 rg
+616 91 318 43 re f
+0.32 0.32 0.32 RG
+1.8 w
+615 90 320 186 re S
+1.6 w
+615 134 m 935 134 l S
+0.15 0.15 0.15 rg
+BT /F2 20 Tf 1 0 0 -1 731.60 119 Tm (Iniciativa) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 166 Tm (+id: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 191 Tm (+nome: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 216 Tm (+descricao: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 241 Tm (+tipo: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 266 Tm (+dataCadastro: Date) Tj ET
+1 1 1 rg
+1150 90 320 186 re f
+0.95 0.95 0.95 rg
+1151 91 318 43 re f
+0.32 0.32 0.32 RG
+1.8 w
+1150 90 320 186 re S
+1.6 w
+1150 134 m 1470 134 l S
+0.15 0.15 0.15 rg
+BT /F2 20 Tf 1 0 0 -1 1277.70 119 Tm (Cliente) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1168.00 166 Tm (+id: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1168.00 191 Tm (+nome: String) Tj ET
+1 1 1 rg
+80 425 320 186 re f
+0.95 0.95 0.95 rg
+81 426 318 43 re f
+0.32 0.32 0.32 RG
+1.8 w
+80 425 320 186 re S
+1.6 w
+80 469 m 400 469 l S
+0.15 0.15 0.15 rg
+BT /F2 20 Tf 1 0 0 -1 165.30 454 Tm (RegistroEstagio) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 98.00 501 Tm (+id: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 98.00 526 Tm (+dataRegistro: Date) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 98.00 551 Tm (+observacao: String) Tj ET
+1 1 1 rg
+615 425 320 186 re f
+0.95 0.95 0.95 rg
+616 426 318 43 re f
+0.32 0.32 0.32 RG
+1.8 w
+615 425 320 186 re S
+1.6 w
+615 469 m 935 469 l S
+0.15 0.15 0.15 rg
+BT /F2 20 Tf 1 0 0 -1 740.30 454 Tm (Decisao) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 501 Tm (+id: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 526 Tm (+tipo: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 551 Tm (+resultado: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 576 Tm (+dataDecisao: Date) Tj ET
+1 1 1 rg
+1150 425 320 186 re f
+0.95 0.95 0.95 rg
+1151 426 318 43 re f
+0.32 0.32 0.32 RG
+1.8 w
+1150 425 320 186 re S
+1.6 w
+1150 469 m 1470 469 l S
+0.15 0.15 0.15 rg
+BT /F2 20 Tf 1 0 0 -1 1267.60 454 Tm (Proposta) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1168.00 501 Tm (+id: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1168.00 526 Tm (+dataEnvio: Date) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1168.00 551 Tm (+status: String) Tj ET
+1 1 1 rg
+80 760 320 186 re f
+0.95 0.95 0.95 rg
+81 761 318 43 re f
+0.32 0.32 0.32 RG
+1.8 w
+80 760 320 186 re S
+1.6 w
+80 804 m 400 804 l S
+0.15 0.15 0.15 rg
+BT /F2 20 Tf 1 0 0 -1 164.80 789 Tm (EstagioCicloVida) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 98.00 836 Tm (+id: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 98.00 861 Tm (+nome: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 98.00 886 Tm (+ordem: Integer) Tj ET
+1 1 1 rg
+615 760 320 186 re f
+0.95 0.95 0.95 rg
+616 761 318 43 re f
+0.32 0.32 0.32 RG
+1.8 w
+615 760 320 186 re S
+1.6 w
+615 804 m 935 804 l S
+0.15 0.15 0.15 rg
+BT /F2 20 Tf 1 0 0 -1 686.60 789 Tm (MembroAltaDirecao) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 836 Tm (+id: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 861 Tm (+nome: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 633.00 886 Tm (+cargo: String) Tj ET
+1 1 1 rg
+1150 760 320 186 re f
+0.95 0.95 0.95 rg
+1151 761 318 43 re f
+0.32 0.32 0.32 RG
+1.8 w
+1150 760 320 186 re S
+1.6 w
+1150 804 m 1470 804 l S
+0.15 0.15 0.15 rg
+BT /F2 20 Tf 1 0 0 -1 1267.60 789 Tm (Contrato) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1168.00 836 Tm (+id: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1168.00 861 Tm (+dataAssinatura: Date) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1168.00 886 Tm (+status: String) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 464.07 163 Tm (acompanha) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 417.54 204 Tm (1) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 563.06 204 Tm (0..*) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1014.38 163 Tm (atende) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 936.06 204 Tm (0..*) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 1099.10 204 Tm (0..1) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 463.54 327 Tm (possui) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 717.53 309 Tm (1) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 240.06 405 Tm (0..*) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 761.38 355 Tm (recebe) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 779.53 306 Tm (1) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 768.06 409 Tm (0..*) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1044.93 350 Tm (origina) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 845.53 306 Tm (1) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 1308.06 409 Tm (0..*) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 239.00 693 Tm (registra) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 232.06 634 Tm (0..*) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 243.53 743 Tm (1) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 747.55 693 Tm (tomada por) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 767.06 633 Tm (0..*) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 778.53 744 Tm (1) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 18 Tf 1 0 0 -1 1285.39 692 Tm (formaliza) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 1312.54 634 Tm (1) Tj ET
+0.15 0.15 0.15 rg
+BT /F1 17 Tf 1 0 0 -1 1303.10 744 Tm (0..1) Tj ET
+Q
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000028 00000 n 
+0000000077 00000 n 
+0000000134 00000 n 
+0000000275 00000 n 
+0000000345 00000 n 
+0000000420 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+6465
+%%EOF
