@@ -1,61 +1,62 @@
 ```plantuml
 @startuml
-hide circle
-hide methods
 
-class GerenteProjeto {
-  +id: String
-  +nome: String
+left to right direction
+scale 0.8
+
+class "Gerente de Projeto" as GerenteProjeto {
+    id: String
+    nome: String
 }
 
-class Iniciativa {
-  +id: String
-  +nome: String
-  +descricao: String
-  +tipo: String
-  +dataCadastro: Date
+class "Projeto/Oportunidade" as Iniciativa {
+    id: String
+    nome: String
+    descricao: String
+    tipo: String
+    dataCadastro: Date
 }
 
 class Cliente {
-  +id: String
-  +nome: String
+    id: String
+    nome: String
 }
 
-class RegistroEstagio {
-  +id: String
-  +dataRegistro: Date
-  +observacao: String
+class "Registro de Estágio" as RegistroEstagio {
+    id: String
+    dataRegistro: Date
+    observacao: String
 }
 
-class EstagioCicloVida {
-  +id: String
-  +nome: String
-  +ordem: Integer
+class "Estágio do Ciclo de Vida" as EstagioCicloVida {
+    id: String
+    nome: String
+    ordem: Integer
 }
 
-class Decisao {
-  +id: String
-  +tipo: String
-  +resultado: String
-  +dataDecisao: Date
+class "Decisão" as Decisao {
+    id: String
+    tipo: String
+    resultado: String
+    dataDecisao: Date
 }
 
-class MembroAltaDirecao {
-  +id: String
-  +nome: String
-  +cargo: String
+class "Membro da Alta Direção" as MembroAltaDirecao {
+    id: String
+    nome: String
+    cargo: String
 }
 
 class Proposta {
-  +id: String
-  +dataEnvio: Date
-  +status: String
+    id: String
+    dataEnvio: Date
+    status: String
 }
 
 class Contrato {
-  +id: String
-  +dataAssinatura: Date
-  +status: String
+    id: String
+    dataAssinatura: Date
+    status: String
 }
 
 GerenteProjeto "1" -- "0..*" Iniciativa : acompanha
@@ -66,5 +67,6 @@ Iniciativa "1" -- "0..*" Decisao : recebe
 Decisao "0..*" -- "1" MembroAltaDirecao : tomada por
 Iniciativa "1" -- "0..*" Proposta : origina
 Proposta "1" -- "0..1" Contrato : formaliza
+
 @enduml
 ```
